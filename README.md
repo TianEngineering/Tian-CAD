@@ -2,10 +2,11 @@
 
 ## Projects
 ### Simple 4 Cylinder Engine
-- Followed this tutorial: 
-- Finished gif of project: <img src="/docs/assets/inventor1-ezgif.com-optimize.gif" width="100">
--
-- #![](/docs/assets/inventor1-ezgif.com-optimize.gif = 250x250)
+- Followed [this](https://www.youtube.com/watch?v=WVX7jRljp7k) tutorial:
+
+- Finished gif of project:
+<img src="/docs/assets/inventor1-ezgif.com-optimize.gif" width="300">
+
 
 # Education
-- University of British Columbia
+- University of British Columbia - Manufacturing engineering
